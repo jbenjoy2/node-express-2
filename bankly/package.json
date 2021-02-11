@@ -1,7 +1,6 @@
 {
   "name": "bankly",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "scripts": {
     "test": "jest",
@@ -20,5 +19,7 @@
   },
   "devDependencies": {
     "jest": "^23.6.0"
-  }
+  },
+  "keywords": [],
+  "description": ""
 }
